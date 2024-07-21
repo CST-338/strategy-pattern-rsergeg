@@ -1,3 +1,10 @@
+/**
+ * Name: R. Sergio Garcia
+ * Date: 7/21/2024
+ * Explanation: RangedAttack ability
+ * attack that implements the Attack interface
+ *
+ */
 public class RangedAttack implements Attack {
 
     Monster attacker;

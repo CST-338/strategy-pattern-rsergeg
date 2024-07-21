@@ -1,3 +1,10 @@
+/**
+ * Name: R. Sergio Garcia
+ * Date: 7/21/2024
+ * Explanation: MeleeAttack ability
+ * attack that implements the Attack interface
+ *
+ */
 public class MeleeAttack implements Attack {
 
     Monster attacker;
