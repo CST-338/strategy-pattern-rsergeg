@@ -19,5 +19,6 @@ public class Driver {
         for (Monster m : monsters) {
             System.out.println(m);
         }
+
     }
 }
