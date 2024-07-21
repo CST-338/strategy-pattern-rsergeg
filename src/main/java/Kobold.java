@@ -1,3 +1,9 @@
+/**
+ * Name: R. Sergio Garcia
+ * Date: 7/21/2024
+ * Explanation: Kobold Class that extends Monster Class
+ * implements a monster called Kobold from Monster class
+ */
 import java.util.HashMap;
 
 public class Kobold extends Monster {

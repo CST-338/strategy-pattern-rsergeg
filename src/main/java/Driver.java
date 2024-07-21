@@ -1,3 +1,9 @@
+/**
+ * Name: R. Sergio Garcia
+ * Date: 7/21/2024
+ * Explanation: Driver class for Strategy HW03
+ * Makes calls to Monster, Imp and Kobold classes
+ */
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

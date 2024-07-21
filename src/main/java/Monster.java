@@ -1,3 +1,10 @@
+/**
+ * Name: R. Sergio Garcia
+ * Date: 7/21/2024
+ * Explanation: Monster Class, abstract class for creating monsters
+ * defines variables used to create monsters
+ * defines toString() that will be used by class that extend Monster Class
+ */
 import java.util.HashMap;
 
 public class Monster {
