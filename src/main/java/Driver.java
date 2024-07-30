@@ -4,6 +4,8 @@
  * Explanation: Driver class for Strategy HW03
  * Makes calls to Monster, Imp and Kobold classes
  */
+import Monsters.*;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
